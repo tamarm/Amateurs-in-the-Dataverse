@@ -9,7 +9,7 @@ using publicly available data.
 The analysis combines geospatial, temporal, and socio-economic data to 
 uncover patterns and insights into theft incidents across the city.
 
-##Project Structure
+## Project Structure
 
 
 The project consists of five Python notebooks, and one data folder.
@@ -53,11 +53,11 @@ And Toronto's police crime documentation file: PSDP_Open_Data_Documentation.pdf
 | Theft_cluster_analysis        | Written by Tamar |
 
 
-##Data Sources
+## Data Sources
 Publicly available datasets from the City of Toronto.
 For convinence copied locally under the data folder
 
-##Usage
+## Usage
 Clone the repository:
 bash
 Copy code
@@ -70,16 +70,16 @@ Run the notebooks in order to reproduce the analysis:
 Start with Geospatial_data_cleaning_and_merging.ipynb.
 Follow with the other notebooks based on your area of interest.
 
-##Insights
+## Insights
 This project provides insights into:
 
 Theft hotspots and clustering.
 Temporal trends and high-risk times.
 Neighborhood socio-economic factors related to theft patterns.
 
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the analysis or add new features.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
