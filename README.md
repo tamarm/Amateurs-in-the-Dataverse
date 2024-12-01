@@ -46,7 +46,7 @@ And Toronto's police crime documentation file: PSDP_Open_Data_Documentation.pdf
 
 | Data Source                   | Description                                   |
 |-------------------------------|-----------------------------------------------|
-| Geospatial_data_cleaning...   | Theft data cleaned by Wisdom, Geospatial cleaning and merging by Tamar|
+| Geospatial_data_cleaning...   | Theft data cleaned by Wisdom and Tamar,<br>Geospatial cleaning and merging by Tamar|
 | Toronto Neighborhood Profiles | Written by Tomer|
 | Temporal analyis              | Written by Wisdom|      
 | Neirborhood analysis          | Written by Tomer |
