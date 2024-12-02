@@ -44,13 +44,13 @@ And Toronto's police crime documentation file: PSDP_Open_Data_Documentation.pdf
 
 ### interactive_maps folder:
 Holds 3 folium interactive maps:
-1. Car clusters:<br>
+1. <a href=https://tamarm.github.io/Amateurs-in-the-Dataverse/interactive_maps/car_cluster_map.html>Car clusters:</a><br>
 BDSCAN car clusters and noise.<br>
 Cluster tooltip and color reflect size of cluster
-3. Bike clusts:
+3. <a href=https://tamarm.github.io/Amateurs-in-the-Dataverse/interactive_maps/bike_cluster_map.html>Bike clusts:</a><br>
 BDSCAN bike clusters and noise.<br>
 Cluster tooltip and color reflect size of cluster
-4. Bike price clusters:<br>
+4. <a href=https://tamarm.github.io/Amateurs-in-the-Dataverse/interactive_maps/bike_price_cluster_map.html>Bike price clusters:</a><br>
 BDSCAN bike clusters without noise.<br>
 Cluster tooltip and color reflect average value of bikes stolen
 
