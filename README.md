@@ -38,8 +38,8 @@ Investigates relationships between socio-economic factors and theft rates.
 
 ### Data Folder: 
 Data folder holds 4 geospatial datasets: car theft, bike theft, 
-neighborhood borders and public parks
-It also holds the scoio economic dataset: neighbourhood-profiles-2021-158-model.xlsx
+neighborhood borders and public parks<br>
+It also holds the scoio economic dataset: neighbourhood-profiles-2021-158-model.xlsx<br>
 And Toronto's police crime documentation file: PSDP_Open_Data_Documentation.pdf
 
 ### interactive_maps folder:
